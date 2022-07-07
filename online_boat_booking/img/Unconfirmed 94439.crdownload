@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <title>Alleppey Houseboats, Deluxe, Luxury, Premium, Honeymoon, Houseboat, Alappuzha, Kerala</title>
+      <META name="description" content="whiterosehouseboats.com India's Largest Houseboats Kerala's No.1 online houseboats booking website and enjoy the backwaters of Kerala, We offer deluxe, luxury, premium Houseboats booking at affordable tariff price.">
+      <META name="keywords" content="Alleppey boat house, Kerala Boat house,  online booking, Houseboats, motorboats, shikara boats, Kerala houseboat online booking, alleppey houseboat online booking, kumarakom houseboat online booking, Deluxe, Luxury, Premium, Largest Houseboat in India">
+      <meta name="robots" content="INDEX, FOLLOW">
+      <meta name="revisit-after" content="7days"/>
+      <meta name="rating" content="general"/>
+      <meta name="author" content="whiterosehouseboats.com "/>
+      <!-- viewport meta -->
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="format-detection" content="telephone=no">
+      <!-- styles -->
+      <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
+      <!-- fontawesome css -->
+      <link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css">
+      <!-- flaticon css -->
+      <link rel="stylesheet" href="plugins/flaticon/flaticon.css">
+      <!-- revolution slider css -->
+      <link rel="stylesheet" href="plugins/revolution/css/settings.css">
+      <link rel="stylesheet" href="plugins/revolution/css/layers.css">
+      <link rel="stylesheet" href="plugins/revolution/css/navigation.css">
+      <!-- jQuery ui css -->
+      <link href="plugins/jquery-ui-1.11.4/jquery-ui.css" rel="stylesheet">
+      <!-- owl carousel css -->
+      <link rel="stylesheet" href="plugins/owl.carousel-2/assets/owl.carousel.css">
+      <link rel="stylesheet" href="plugins/owl.carousel-2/assets/owl.theme.default.min.css">
+      <!-- gallery -->
+      <link rel="stylesheet" href="plugins/lightGallery/dist/css/lightgallery.min.css">
+      <!-- animate css -->
+      <link rel="stylesheet" href="plugins/animate.min.css">
+      <!-- bxslider -->
+      <link rel="stylesheet" href="plugins/bx-slider/jquery.bxslider.css">
+
+      <!-- master stylesheet -->
+      <link rel="stylesheet" href="css/style.css">
+      <!-- responsive stylesheet -->
+      <link rel="stylesheet" href="css/responsive.css">
+      <!-- text stylesheet -->
+      <link rel="stylesheet" href="css/text.css">
+      <!-- favicon -->
+      <link rel="shortcut icon" href="images/favicon.ico" />
+      <style>
+      .destination-content-wrap .col-lg-12, .col-md-6 {padding: 0;}
+      </style>
+   </head>
+   <body>
+      <div id="top-bar" class="hidden-sm hidden-xs home">
+         <div class="zt-container">
+            <div class="social-top pull-left">
+               <ul>
+                  <li><a href="#" target="_blank"><span class="fa fa-facebook"></span></a></li>
+                  <li><a href="#" target="_blank"><span class="fa fa-twitter"></span></a></li>
+                  <li><a href="#" target="_blank"><span class="fa fa-instagram"></span></a></li>
+                  <li><a href="#" target="_blank"><span class="fa fa-youtube"></span></a></li>
+                  <li><a href="#" target="_blank"><span class="fa fa-google-plus"></span></a></li>
+               </ul>
+            </div>
+            <div class="login pull-right">
+               <ul>
+               	  <!--<li><a href="index.html">Home</a></li>-->
+                  <li><a href="about-us.html">About Us</a></li>
+                  <li><a href="alleppey-houseboat-booking.html">Enquiry</a></li>
+                  <li><a href="alleppey-houseboat-booking.html">Contact Us</a></li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <header id="header" class="stricky home">
+         <div class="zt-container clearfix">
+            <div class="logo pull-left">
+               <a href="index.html">
+                  <img src="images/logo.png" alt="White Rose Houseboat">
+               </a>
+            </div>
+            <nav class="nav-holder pull-right">
+               <div class="nav-footer">
+                  <ul class="nav">
+                    <li><a href="index.html">Home</a></li>
+                     <li><a href="sightseeing-in-alappuzha.html">Alleppey</a></li>
+                     <li class="has-submenu active">
+                        <a href="#">Houseboats</a>
+                        <ul class="submenu">
+                           <li><a href="alleppey-white-rose-houseboat.html">White Rose Houseboats</a></li>
+                           <li><a href="alleppey-deluxe-houseboats.html">Deluxe Houseboats</a></li>
+                           <li><a href="alleppey-premium-houseboats.html">Premium Houseboats</a></li>
+                        </ul>
+                     </li>
+                     <li class="has-submenu">
+                        <a href="#">Packages</a>
+                        <ul class="submenu">
+                           <li><a href="allepey-houseboat-cruise.html#night">Over Night Cruise</a></li>
+                           <li><a href="allepey-houseboat-cruise.html#day">Day Cruise</a></li>
+                           <li><a href="allepey-houseboat-cruise.html#honeymoon">Honeymoon Cruise</a></li>
+                        </ul>
+                     </li>
+                      <li><a href="kerala-taxi-services.html">Taxi</a></li>
+                      <li><a href="kerala-ayurveda.html">Ayurveda</a></li>
+                     <li><a href="https://www.ftcash.com/app/pay/store/rosegrouptours">Online Booking</a></li>
+                  </ul>
+               </div>
+               <div class="nav-header">
+                  <ul>
+                     <li>
+                        <a href="#"><span class="icon icon-phone"></span></a>
+                        <ul class="submenu phone-box">
+                           <li>
+                              <div class="text-phone-number">
+                                 <div class="phone-number"><a href="+91 9947 69 6654">Call Now</a></div>
+                                 <div class="time-wrap">
+                                    <span class="now-is"></span>
+                                    <span class="time-open">+91 9947 69 6654</span>
+                                 </div>
+                              </div>
+                           </li>
+                        </ul>
+                     </li>
+                     <li><button class="hidden-lg hidden-md menu-expander"><i class="fa fa-bars"></i></button></li>
+                  </ul>
+               </div>
+            </nav>
+         </div>
+      </header>
+      <section class="inner-banner">
+         <div class="zt-container">
+            <div class="box clearfix">
+               <h2 class="div_text_shadow">ALLEPPEY PREMIUM HOUSEBOAT</h2>
+               <ul class="breadcumb">
+                  <li><a href="index.html">Home</a></li>
+                  <li><span>Alleppey Premium Houseboats</span></li>
+               </ul>
+            </div>
+         </div>
+      </section>
+      <section class="destinations" style="padding: 30px 0;">
+         <div class="zt-container">
+            <div class="row">
+            <h2>ALLEPPEY PREMIUM HOUSEBOAT</h2>
+            <p style="padding: 10px;text-align: justify;">The spectacular beauty of Kerala's backwaters needs no introduction. This month's lens view takes you to the backwater stretch of the Vembanad, where one can go for a leisurely cruise on a multi deck boat, allowing you enjoy the scenic backwater life. 
+Traditionally, the houseboat was called Kettuvallam, which means a boat made by tying together pieces of wood. Unbelievable as it may sound, not a single nail is used in the making of a Kettuvallam. Jack wood planks are joined together with coir rope and then coated with black resin made from boiled cashew nut shells. The materials that go into the making are all local and Eco friendly bamboo poles, coconut fiber ropes, bamboo mats, coir carpets etc These traditional country boats were used as the mode of transport in the early times from the isolated interior villages to the towns. But these boat services have been laid off with the developments taken place in the transport services in the recent past. Today these giant 80-foot long crafts have been adapted into luxuriously furnished houseboats. A Kettuvallam usually has one or two bath attached rooms, an open lounge, deck, kitchenette and a crew comprising two oarsmen and a cook. Traditional lanterns are used as lights. Your holiday in this tranquil world is the comfortably furnished houseboats. Come, check into a houseboat for a memorable cruise along the backwaters of Kerala.</p>
+               
+                
+                <div class="col-md-12 col-sm-12 col-xs-12">
+               <hr>
+               
+               
+                  <div class="destination-content-wrap">
+                  <h3><i class="fa fa-anchor"></i> 1 Bedroom Premium Houseboat</h3>
+                     <div class="tab-content">
+                        <div class="tab-pane active" id="location">
+                           <div class="tab-details panel panel-default">
+                           <div class="col-lg-12">
+                          <div class="col-md-6">
+							<img src="images/alleppey-houseboats/premium-houseboats/1bedroom/1-bedroom-houseboat.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/1bedroom/1-bedroom-houseboat1.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/1bedroom/1-bedroom-houseboat2.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/1bedroom/1-bedroom-houseboat3.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/1bedroom/1-bedroom-houseboat4.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>			</div>
+                            </div>
+                            
+                            <div class="col-lg-12">
+                          <div class="col-md-6">
+							<img src="images/alleppey-houseboats/premium-houseboats/1bedroom/1-bedroom-houseboat5.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/1bedroom/1-bedroom-houseboat6.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/1bedroom/1-bedroom-houseboat7.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/1bedroom/1-bedroom-houseboat8.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/1bedroom/1-bedroom-houseboat9.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>			</div>
+                            </div>
+                            <div class="clearfix"></div>
+                           </div>
+                           <a href="alleppey-houseboat-booking.html" class="read-more pull-right btn zt-primary btn-read-more"> Book Now</a>
+                        </div>
+                        
+                     </div>
+                     
+                    </div> 
+                    
+                    
+                    <!---02--->
+                    
+                    <div class="destination-content-wrap">
+                  <h3><i class="fa fa-anchor"></i> 2 Bedroom Premium Houseboat</h3>
+                     <div class="tab-content">
+                        <div class="tab-pane active" id="location">
+                           <div class="tab-details panel panel-default">
+                           <div class="col-lg-12">
+                          <div class="col-md-6">
+							<img src="images/alleppey-houseboats/premium-houseboats/2bedroom/2-bedroom-premium-houseboat.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/2bedroom/2-bedroom-premium-houseboat1.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/2bedroom/2-bedroom-premium-houseboat2.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/2bedroom/2-bedroom-premium-houseboat3.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/2bedroom/2-bedroom-premium-houseboat4.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>			</div>
+                            </div>
+                            <div class="clearfix"></div>
+                           </div>
+                           <a href="alleppey-houseboat-booking.html" class="read-more pull-right btn zt-primary btn-read-more"> Book Now</a>
+                        </div>
+                        </div>
+                     </div>
+                     
+                     
+                     <!---03--->
+                    
+                    <div class="destination-content-wrap">
+                  	<h3><i class="fa fa-anchor"></i> 3 Bedroom Premium Houseboat</h3>
+                     <div class="tab-content">
+                        <div class="tab-pane active" id="location">
+                           <div class="tab-details panel panel-default">
+                           <div class="col-lg-12">
+                          <div class="col-md-6">
+							<img src="images/alleppey-houseboats/premium-houseboats/3bedroom/3-bedroom-premium-houseboat.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/3bedroom/3-bedroom-premium-houseboat1.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/3bedroom/3-bedroom-premium-houseboat2.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/3bedroom/3-bedroom-premium-houseboat3.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/3bedroom/3-bedroom-premium-houseboat4.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>			</div>
+                            </div>
+                            <div class="clearfix"></div>
+                           </div>
+                           <a href="alleppey-houseboat-booking.html" class="read-more pull-right btn zt-primary btn-read-more"> Book Now</a>
+                        </div>
+                        
+                     </div>
+                     
+                    </div>
+                    
+                    
+                    
+                    <!---04--->
+                    
+                    <div class="destination-content-wrap">
+                  	<h3><i class="fa fa-anchor"></i> 4 Bedroom Premium Houseboat</h3>
+                     <div class="tab-content">
+                        <div class="tab-pane active" id="location">
+                           <div class="tab-details panel panel-default">
+                           <div class="col-lg-12">
+                          <div class="col-md-6">
+							<img src="images/alleppey-houseboats/premium-houseboats/4bedroom/4-bedroom-premium-houseboat.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/4bedroom/4-bedroom-premium-houseboat1.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/4bedroom/4-bedroom-premium-houseboat2.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/4bedroom/4-bedroom-premium-houseboat3.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/4bedroom/4-bedroom-premium-houseboat4.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>			</div>
+                            </div>
+                            <div class="clearfix"></div>
+                           </div>
+                           <a href="alleppey-houseboat-booking.html" class="read-more pull-right btn zt-primary btn-read-more"> Book Now</a>
+                        </div>
+                        
+                     </div>
+                     
+                    </div>
+                    
+                    
+                    <!---05--->
+                    
+                    <div class="destination-content-wrap">
+                  	<h3><i class="fa fa-anchor"></i> 5 Bedroom Premium Houseboat</h3>
+                     <div class="tab-content">
+                        <div class="tab-pane active" id="location">
+                           <div class="tab-details panel panel-default">
+                           <div class="col-lg-12">
+                          <div class="col-md-6">
+							<img src="images/alleppey-houseboats/premium-houseboats/5bedroom/5-bedroom-premium-houseboat.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/5bedroom/5-bedroom-premium-houseboat1.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/5bedroom/5-bedroom-premium-houseboat2.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/5bedroom/5-bedroom-premium-houseboat3.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/5bedroom/5-bedroom-premium-houseboat4.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>			</div>
+                            </div>
+                            
+                            <div class="col-lg-12">
+                          <div class="col-md-6">
+							<img src="images/alleppey-houseboats/deluxe-houseboats/5bedroom/5-bedroom-deluxe-houseboat5.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/deluxe-houseboats/5bedroom/5-bedroom-deluxe-houseboat6.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/deluxe-houseboats/5bedroom/5-bedroom-deluxe-houseboat7.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/deluxe-houseboats/5bedroom/5-bedroom-deluxe-houseboat8.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/deluxe-houseboats/5bedroom/5-bedroom-deluxe-houseboat9.jpg" alt="Alleppey Premium Houseboat" class="img-responsive table-bordered"></div>			</div>
+                            </div>
+                            
+                            <div class="clearfix"></div>
+                           </div>
+                           <a href="alleppey-houseboat-booking.html" class="read-more pull-right btn zt-primary btn-read-more"> Book Now</a>
+                        </div>
+                        
+                     </div>
+                     
+                    </div>
+                    
+                    
+                    
+                    
+                    <!---07--->
+                     <!--06-->
+                    
+                    <div class="destination-content-wrap">
+                  	<h3><i class="fa fa-anchor"></i> 6 Bedroom Premium Houseboat</h3>
+                     <div class="tab-content">
+                        <div class="tab-pane active" id="location">
+                           <div class="tab-details panel panel-default">
+                           <div class="col-lg-12">
+                          <div class="col-md-6">
+							<img src="images/alleppey-houseboats/premium-houseboats/6bedroom/6-bedroom-premium-houseboat.jpg" alt="Alleppey premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/6bedroom/6-bedroom-premium-houseboat1.jpg" alt="Alleppey premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/6bedroom/6-bedroom-premium-houseboat2.jpg" alt="Alleppey premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/6bedroom/6-bedroom-premium-houseboat3.jpg" alt="Alleppey premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/6bedroom/6-bedroom-premium-houseboat4.jpg" alt="Alleppey premium Houseboat" class="img-responsive table-bordered"></div>			</div>
+                            </div>
+                            <div class="clearfix"></div>
+                           </div>
+                           <a href="alleppey-houseboat-booking.html" class="read-more pull-right btn zt-primary btn-read-more"> Book Now</a>
+                        </div>
+                        
+                     </div>
+                    </div>
+                    
+                    
+                    <!--7-->
+                    
+                    <div class="destination-content-wrap">
+                  	<h3><i class="fa fa-anchor"></i> 7 Bedroom Premium Houseboat</h3>
+                     <div class="tab-content">
+                        <div class="tab-pane active" id="location">
+                           <div class="tab-details panel panel-default">
+                           <div class="col-lg-12">
+                          <div class="col-md-6">
+							<img src="images/alleppey-houseboats/premium-houseboats/7bedroom/7-bedroom-premium-houseboat.jpg" alt="Alleppey premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/7bedroom/7-bedroom-premium-houseboat1.jpg" alt="Alleppey premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/7bedroom/7-bedroom-premium-houseboat2.jpg" alt="Alleppey premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/7bedroom/7-bedroom-premium-houseboat3.jpg" alt="Alleppey premium Houseboat" class="img-responsive table-bordered"></div>
+                            <div class="col-md-6">
+                            <img src="images/alleppey-houseboats/premium-houseboats/7bedroom/7-bedroom-premium-houseboat4.jpg" alt="Alleppey premium Houseboat" class="img-responsive table-bordered"></div>			</div>
+                            </div>
+                            <div class="clearfix"></div>
+                           </div>
+                           <a href="alleppey-houseboat-booking.html" class="read-more pull-right btn zt-primary btn-read-more"> Book Now</a>
+                        </div>
+                        
+                     </div>
+                    </div>
+                    
+                    
+                    
+                    
+                </div>     
+                     
+               
+            </div>
+         </div>
+      </section>
+      
+      
+      <footer id="footer" class="sec-padding">
+         <div class="zt-container">
+            <div class="row">
+               <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="footer-widget notitle about-widget">
+                     <div class="title">
+                        <h3>ABOUT US</h3>
+                     </div>
+                     <img class="logo-footer" src="images/logo.png" alt="White Rose Houseboat" />
+                     <p><i class="fa fa-map-marker"></i> SAS Mahal Complex<br>
+														 West of Vazhichery<br>
+														 Alappuzha, Kerala, India</p>
+                     <p><i class="fa fa-phone-square"></i> +91 9947 69 6654, +91 8281 00 5678</p>
+                     <p><i class="fa fa-envelope-o"></i> info@whiterosehouseboats.com</p>
+                     <p><i class="fa fa-globe"></i> www.whiterosehouseboats.com</p>
+                     <ul class="social-footer">
+                  			<li><a href="https://www.facebook.com/" target="_blank"><span class="fa fa-facebook"></span></a></li>
+                  			<li><a href="https://twitter.com/login" target="_blank"><span class="fa fa-twitter"></span></a></li>
+                  			<li><a href="https://www.instagram.com/accounts/login/" target="_blank"><span class="fa fa-instagram"></span></a></li>
+                  			<li><a href="https://youtube.com/" target="_blank"><span class="fa fa-youtube-square"></span></a></li>
+                  			<li><a href="https://plus.google.com/collections/featured" target="_blank"><span class="fa fa-google-plus"></span></a></li>
+                     </ul>
+                  </div>
+               </div>
+               
+               <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="footer-widget post-link-widget">
+                     <div class="title">
+                        <h3>LOCATION MAP</h3>
+                     </div>
+                     <ul>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3934.8444196905925!2d76.35445131488189!3d9.522243293179697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b08840c66d8ed05%3A0x91a72061ac8e392c!2sROSE+GROUR+INTERNATIONAL(ALAPPUZHA)!5e0!3m2!1sen!2sin!4v1486967832464" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="footer-widget gallery-widget">
+                     <div class="title">
+                        <h3>VIDEO</h3>
+                     </div>
+                     <ul id="gallerywidget" class="list-unstyled">
+                        <li data-src="images/tour/3.jpg">
+                        
+                        <iframe width="100%" height="200" src="https://www.youtube.com/embed/SLQmQwvJU78" frameborder="0" allowfullscreen></iframe>
+                        
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <div class="footer-bottom text-white">
+         <div class="zt-container">
+            <div class="row">
+               <div class="col-md-7 col-sm-12 col-xs-12">
+                  <div class="left-text">
+                    &copy; 2017 White Rose Houseboat. All right reserved.| Dz : <a href="http://www.cloudmedia.co.in/" target="_blank">cm</a>
+                  </div>
+               </div>
+               <div class="col-md-5 col-sm-12 col-xs-12">
+                  <div class="right-text pull-right">
+                     <ul class="menu-footer ">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about-us.html">About Us</a></li>
+                        <li><a href="alleppey-houseboat-booking.html">Enquiry</a></li>
+                        <li><a href="alleppey-houseboat-booking.html">Contact Us</a></li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- JS -->
+      <!-- jQuery js -->
+      <script src="plugins/jquery/jquery-1.11.3.min.js"></script>
+      <!-- bootstrap js -->
+      <script src="plugins/bootstrap/js/bootstrap.min.js"></script>
+      <!-- jQuery ui js -->
+      <script src="plugins/jquery-ui-1.11.4/jquery-ui.js"></script>
+      <!-- owl carousel js -->
+      <script src="plugins/owl.carousel-2/owl.carousel.min.js"></script>
+      <!-- gallery js -->
+      <script src="plugins/lightGallery/dist/js/lightgallery-all.min.js"></script>
+      <script src="plugins/lightGallery/dist/js/jquery.mousewheel.min.js"></script>
+      <!-- jQuery validation -->
+      <script src="plugins/jquery-validation/dist/jquery.validate.min.js"></script>
+      <!-- bxslider js -->
+      <script src="plugins/bx-slider/jquery.bxslider.min.js"></script>
+
+      <!-- revolution slider js -->
+      <script src="plugins/revolution/js/jquery.themepunch.tools.min.js"></script>
+      <script src="plugins/revolution/js/jquery.themepunch.revolution.min.js"></script>
+      <script src="plugins/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+      <script src="plugins/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+      <script src="plugins/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+      <script src="plugins/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+      <script src="plugins/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+      <script src="plugins/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+      <script src="plugins/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+      <script src="plugins/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+      <script src="plugins/revolution/js/extensions/revolution.extension.video.min.js"></script>
+
+      <!-- theme custom js  -->
+      <script src="js/main.js"></script>
+   </body>
+
+</html>

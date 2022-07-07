@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<!-- saved from url=(0045)http://127.0.0.1:8000/user/generate_bill?id=1 -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Proforma bill of supply_files/proforma_supply_bill.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com/">
+    <link href="./Proforma bill of supply_files/css2" rel="stylesheet">
+    <title>Proforma bill of supply</title>
+    <script src="./Proforma bill of supply_files/jquery-3.6.0.min.js.download"></script>
+    <script src="./Proforma bill of supply_files/jspdf.min.js.download"></script>
+    <style>
+        body {
+            font-family: "Karla", sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            overflow-x: hidden;
+        }
+
+        th,
+        td {
+            padding: 0 !important;
+            text-align: left;
+            position: relative;
+        }
+
+        .mb-3 {
+            margin-bottom: 3px;
+        }
+
+        .mb-5 {
+            margin-bottom: 5px;
+        }
+
+        .pr-10{
+            padding-right: 10px !important;
+        }
+
+        .text-right {
+            text-align: right;
+        }
+
+        .border-b_color {
+            border-bottom: 1px solid #93d150;
+        }
+
+        .border-t {
+            border-top: 1px solid #dedede;
+        }
+
+        .border-b {
+            border-bottom: 1px solid #dedede;
+        }
+
+        .card {
+            background-color: #fff;
+            padding: 0 20px;
+        }
+
+        .card__header,
+        .card__total_amount,
+        .card__amount_section {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 17px 0;
+        }
+
+        .card__header_img {
+            width: 175px;
+        }
+
+        .card__header_title {
+            font-family: "Rajdhani", sans-serif;
+            font-size: 24px;
+            font-weight: bold;
+            color: #2b9eaa;
+            text-transform: uppercase;
+        }
+
+        .card__info_flex {
+            display: flex;
+            padding: 10px 0;
+        }
+
+        .card__info {
+            flex: 50%;
+        }
+
+        .card__info_row:not(:last-child) {
+            margin-bottom: 5px;
+        }
+
+        .card__info_title,
+        .card__table_data_row__content {
+            color: #141414;
+            font-size: 15px;
+        }
+
+        .card__info_text {
+            color: #141414;
+            font-size: 15px;
+            font-weight: bold;
+        }
+
+        .card__table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .card__table_header_row {
+            background-color: #2b9eaa;
+        }
+
+        .card__table_data_row {
+            border-top: 1px solid #dedede;
+        }
+
+        .card__table_header_row__content {
+            color: #fff;
+            font-size: 15px;
+            font-weight: bold;
+            padding: 6px 0;
+        }
+
+        .card__table_data_row__content {
+            padding: 5px 0;
+        }
+
+        .card__table_data_row__subcontent {
+            font-size: 13px;
+            color: #141414;
+            width: max-content;
+            margin-left: 10px;
+        }
+
+        .dashed_b-t {
+            border-top: 1px dashed #dedede;
+        }
+
+        .card__total_amount {
+            background-color: #F2F2F2;
+            padding: 4px 10px 5px;
+            border-top: 1px solid #dedede;
+            border-bottom: 1px solid #dedede;
+        }
+
+        .card__amount_section {
+            padding: 6px 10px 5px;
+            align-items: flex-start;
+        }
+
+        .card__total_amount__title,
+        .card__total_amount__title_lg {
+            font-size: 18px;
+            color: #141414;
+            font-weight: bold;
+        }
+
+        .card__declaration {
+            padding: 6px 10px 5px;
+            background-color: #D4ECEE;
+            font-size: 15px;
+            font-weight: bold;
+            color: #2b2b2b;
+        }
+
+        .card__signature {
+            margin-top: 30px;
+            padding: 0 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card" style="width: 50%;">
+        <div class="card__header border-b_color">
+            <img src="./Proforma bill of supply_files/exportify_logo_166x31_OG_yhqmrg.svg" alt="Exportify Logo" class="card__header_img">
+            <div class="card__header_title">PROFORMA Bill of Supply</div>
+        </div>
+
+        <div class="card__info_flex border-b_color">
+            <div class="card__info">
+
+                <div class="card__info_row">
+                    <span class="card__info_title">Name.: </span>
+                    <span class="card__info_text">athira</span>
+                </div>
+                <div class="card__info_row">
+                    <span class="card__info_title">Phone.: </span>
+                    <span class="card__info_text">9061970203</span>
+                </div>
+                <div class="card__info_row">
+                    <span class="card__info_title">Email.: </span>
+                    <span class="card__info_text">athirathanikunnel@gmail.com</span>
+                </div>
+                <div class="card__info_row">
+                    <span class="card__info_title">Address.: </span>
+                    <span class="card__info_text">Vazhikadavu</span>
+                </div>
+
+
+            </div>
+
+
+        </div>
+
+
+        <table class="card__table mb-5">
+            <thead>
+                <tr class="card__table_header_row">
+                    <th>
+                        <div class="card__table_header_row__content" style="padding-left: 10px;">Sr. No.</div>
+                    </th>
+                    <th>
+                        <div class="card__table_header_row__content">Train Name</div>
+                    </th>
+                    <th>
+                        <div class="card__table_header_row__content">Departure</div>
+                    </th>
+                    <th>
+                        <div class="card__table_header_row__content">Destination</div>
+                    </th>
+                    <th>
+                        <div class="card__table_header_row__content">Departure Time</div>
+                    </th>
+                    <th>
+                        <div class="card__table_header_row__content">Arrival Time</div>
+                    </th>
+                    <th>
+                        <div class="card__table_header_row__content">Compartment</div>
+                    </th>
+                    <th>
+                        <div class="card__table_header_row__content">Date</div>
+                    </th>
+                     <th>
+                        <div class="card__table_header_row__content">No of Seats</div>
+                    </th>
+                    <th>
+                        <div class="card__table_header_row__content text-right" style="padding-right: 10px;">
+                            Amount
+                        </div>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="card__table_data_row">
+                    <td>
+                        <div class="card__table_data_row__content" style="padding-left: 10px;">1</div>
+                    </td>
+                    <td>
+                        <div class="card__table_data_row__content">kochuveli</div>
+
+
+                    </td>
+                    <td>
+                        <div class="card__table_data_row__content">kozhikode</div>
+                    </td>
+                    <td>
+                        <div class="card__table_data_row__content">Trivandrum</div>
+                    </td>
+                    <td>
+                        <div class="card__table_data_row__content">13:23</div>
+                    </td>
+                    <td>
+                        <div class="card__table_data_row__content">15:23</div>
+                    </td>
+                     <td>
+                        <div class="card__table_data_row__content">A/C Class</div>
+                    </td>
+                     <td>
+                        <div class="card__table_data_row__content">2022-05-12</div>
+                    </td>
+                     <td>
+                        <div class="card__table_data_row__content">3</div>
+                    </td>
+                    <td>
+                        <div class="card__table_data_row__content text-right pr-10" style="right: 0;">RS:-
+                            600
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="card__total_amount mb-5">
+            <div class="card__total_amount__title">Total</div>
+            <div class="card__total_amount__title_lg">Rs:- 600</div>
+        </div>
+
+
+    </div>
+<center>
+  <p>
+    <button id="generatePDF">generate PDF</button>
+  </p>
+ Ref:<a href="https://phpcoder.tech/">phpcoder.tech</a>
+</center>
+    <script>
+var doc = new jsPDF();
+var specialElementHandlers = {
+    '#editor': function (element, renderer) {
+        return true;
+    }
+};
+
+//margins.left, // x coord   margins.top, { // y coord
+$('#generatePDF').click(function () {
+    doc.fromHTML($('#htmlContent').html(), 15, 15, {
+        'width': 700,
+        'elementHandlers': specialElementHandlers
+    });
+    doc.save('sample_file.pdf');
+});
+</script>
+
+
+
+</body></html>
